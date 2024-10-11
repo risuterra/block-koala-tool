@@ -1,5 +1,5 @@
 # block-koala-tool
-A tool for importing/exporting custom Block Koala levels to/from [UFO 50](https://store.steampowered.com/app/1147860/UFO_50/) save files.
+A tool for importing/exporting custom Block Koala levels to/from [UFO 50](https://store.steampowered.com/app/1147860/UFO_50/).
 
 ### Accessing Saved Levels
 1. Select a UFO 50 save file to upload.
